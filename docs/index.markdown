@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# Subdirectories 
-
-- [Docs](https://castroploiin.github.io/docs)
+# Docs 
